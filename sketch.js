@@ -16,7 +16,7 @@ function setup() {
 
 let rot = 0;
 function draw() {
-  rot +=0.005;
+  rot +=0.01;
   background(255);
   translate(width/2,height/2);
   rotate(rot);
