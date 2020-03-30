@@ -13,3 +13,5 @@ Example program
 ----
 
 _Note:_ If your circle doesn't fit the screen then zoom out and refresh the page
+
+I used [p5.js](http://p5js.org) for this project
