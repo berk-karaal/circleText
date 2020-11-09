@@ -4,7 +4,7 @@ Write your text to url (next to '/?txt=') and press ENTER key to play
 
 _You can use '+' for spaces_
 
-Example url: [http://berkkaraal.com/circleText/?txt=GITHUB+TEST](http://berkkaraal.com/circleText/?txt=GITHUB+TEST)
+Example url: http://berkkaraal.com/p5js/circleText/?txt=GITHUB+TEST
 
 Example program 
 
